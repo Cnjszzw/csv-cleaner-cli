@@ -1,0 +1,13 @@
+id,name,email,department,notes
+1,Alice Johnson,alice@example.com,Engineering,"Senior developer, 5 years experience"
+2,"Bob ""The Builder"" Smith",bob@example.com,Construction,"Prefers """"nail guns"""" over hammers"
+3,Charlie Brown,charlie@example.com,Marketing,
+4,"Diana, Princess of Themyscira",diana@example.com,Leadership,Amazon warrior
+5,Eve,eve@example.com,,
+6,"Grace
+Hopper",grace@example.com,Research,"Developed COBOL;
+invented compiler"
+7,Henry,henry@example.com,Sales,"needs access to, the CRM system"
+8,Isabel,isabel@example.com,HR,extra_field_here
+9,,empty_name@example.com,Engineering,test
+10,"Kai, Jr.",kai@example.com,Operations,"Has, a comma"
